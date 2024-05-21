@@ -5,6 +5,8 @@
 
 The ABK Light theme was created for VS Code in order to provide a more engaging user experience for programmers who prefer bold colors and easier visual cues. 
 
+<div style="height: 2rem;"></div>
+
 ## How to install 🛠️
 
 ### Option 1: VS Code (automatic)
@@ -40,6 +42,8 @@ code --install-extension abk-light-theme-0.0.1.vsix
 
 Close and reopen VS Code to load the new theme.
 
+<div style="height: 2rem;"></div>
+
 ## Usage 🎨
 
 1. **Open Visual Studio Code**
@@ -47,6 +51,8 @@ Close and reopen VS Code to load the new theme.
 Or use the shortcut 'Ctrl+K Ctrl+T' on Windows/Linux, 'Cmd+K Cmd+T' on macOS.
 3. **Select "ABK Light"**
 Choose "ABK Light" from the list of available themes.
+
+<div style="height: 2rem;"></div>
 
 ## Contributing ✍️
 
@@ -80,9 +86,13 @@ git push origin feature-or-bugfix-name
 6. **Create a pull request:**
 Go to the original repository on GitHub and click the "New pull request" button.
 
+<div style="height: 2rem;"></div>
+
 ## License 📄
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+<div style="height: 2rem;"></div>
 
 ## Credits ©
 
