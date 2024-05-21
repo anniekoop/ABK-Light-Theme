@@ -111,4 +111,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Credits ©
 
 
-Developed by [Annie Koop](https://anniekoopdesign.com) 
+Developed by [Annie Koop](https://github.com/anniekoop) 
