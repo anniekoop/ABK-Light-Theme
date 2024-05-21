@@ -1,0 +1,21 @@
+{
+  "name": "abk-light",
+  "displayName": "ABK Light",
+  "description": "A bold and vibrant light theme for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ABK Light",
+        "uiTheme": "vs",
+        "path": "./themes/ABK Light-color-theme.json"
+      }
+    ]
+  }
+}
